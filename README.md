@@ -27,9 +27,9 @@ I'm a passionate Front-End Developer specializing in **Vue.js** and **Nuxt.js**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javid99&show_icons=true&theme=radical) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javid99&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 
