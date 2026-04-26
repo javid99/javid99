@@ -6,12 +6,12 @@ I'm a passionate Front-End Developer specializing in **Vue.js** and **Nuxt.js**.
 
 ## 🚀 Tech Stack
 
-<!-- - 🟩 Vue.js / Nuxt.js
+- 🟩 Vue.js / Nuxt.js
 - 🎨 Tailwind CSS / Sass / Responsive Design
 - 📜 HTML5 / CSS3 / JavaScript (ES6+)
 - ⚙️ Git / GitHub / GitLab
 - 📦 REST APIs
-- 🌐 Progressive Web Apps (PWA)   -->
+- 🌐 Progressive Web Apps (PWA)
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
